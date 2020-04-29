@@ -1,0 +1,18 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "NT2K48249J.com.ronasit.universal-links-sandbox" ],
+             "components": [
+               {
+                  "/": "/buy/*",
+                  "comment": "Matches any URL whose path starts with /buy/"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "NT2K48249J.com.ronasit.universal-links-sandbox" ]
+   }
+}
